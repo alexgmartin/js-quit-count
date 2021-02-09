@@ -3,3 +3,4 @@
 ## Countdown from your designated quit date in JS
 
 ## TODO:
+Everything
